@@ -5,3 +5,5 @@ This project is associated with the course datascience toolkit
 this is a comment added to README.md in docs branch
 
 for merge conflict this statement is added in the master branch
+
+this statement has been added to create merge conflict in the feature-auth branch
